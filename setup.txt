@@ -1,0 +1,17 @@
+para clonar o repositório, no terminal abrem a pasta do vosso pc onde querem guardar e correm:
+
+git clone https://github.com/diogodivs/ml_group38.git
+
+Sempre que quiserem editar, devem antes:
+1. Abrem no terminal a pasta do repositório "ml_group38"
+2. "git pull"
+3. Se aparecer - already up to date, está top.
+
+Fazem as vossas alterações e depois:
+1. Guardam/ Ctrl + S
+2. git add .
+3. git commit -m "Descrição da alteração"
+4. git push                      # enviar para o GitHub
+5. Rezar que tenha dado certo
+
+Para ser mais fácil e não haver conflitos, é importante dar Commits pequenos e frequentes, com mensagens claras do que foi editado.

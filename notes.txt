@@ -1,0 +1,3 @@
+Vamos escrevendo aqui as conclusões, alterações que formos fazendo etc.
+
+Em cada conclusão/ descrição da alteração, metam o nome do commit que deram, para ser mais fácil dar trace depois.
